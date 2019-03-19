@@ -82,6 +82,7 @@ The old Linux kernel source ver 0.11 review with line by line for OS lecture. Or
   ```
 
   - GDT
+  
 |  8   | Process2 TSS2 |
 | :--: | :-----------: |
 |  7   | Process1 LDT1 |
