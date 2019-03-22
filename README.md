@@ -22,15 +22,15 @@ linux0.11-kernel-code-review
 
 ### 1. Overall Memory Layout in Linux Kernel 0.11
 
-![](https://lh6.googleusercontent.com/Nlv4q8sRhbz93rvy7USlDjKO4dOcdoyZpCyU2bNJxD1DuAo1pEdRUgVMp6TXEYoq6ybw7dcrTTkPbQ=w1920-h867-rw)
+![](http://drive.google.com/uc?export=view&id=1utgnQ9yIjtNXy5Q5v5eFW_0AMLXrvQgN)
 
 ### 2. More Detail Overall Memory Layout in Linux Kernel 0.11
 
-![](https://lh5.googleusercontent.com/EVnEtteNeW1Nxx6WBcVU8EOYzKVq5-l7YNZACyzeq-e6GSlUJloo4nszG6xqvHmVeCGlyFZQJU9Hew=w1920-h867-rw)
+![](http://drive.google.com/uc?export=view&id=1zdzEYQxS_E6jb7R3jLbxqixYZjnaYCNg)
 
 ### 3. File System
 
-![](https://lh6.googleusercontent.com/ReDu1y0JFoKvzgBdJj_PHYiW2-aEhF6M1v9RvyzIvO0O34pLNSyFNCfZjTpKgOAKbENc46l0tBLJ5A=w1920-h867-rw)
+![](http://drive.google.com/uc?export=view&id=1ooTOdk1GbV9IR7RcoThjCh1tDduuvPP4)
 
 ### 4. Segmentation and Paging
 image refer to [here](http://sarghis.com/blog/637/)
